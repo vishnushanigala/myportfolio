@@ -6,7 +6,7 @@ function togglemenu() {
 }
 
 var typed = new Typed('#element', {
-    strings: ['Web Developer', 'Software Developer', 'Programmer Enthusiastic'],
+    strings: ['MERN stack developer', 'AIML Enthusiastic', 'Competitive Programmer'],
     typeSpeed: 100,
     loop: true // Add this option to make it run continuously
 });
